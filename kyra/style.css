@@ -1,0 +1,52 @@
+* {
+   
+    text-align: center; 
+    box-sizing: border-box;
+   border-radius: 10px;
+   background:linear-gradient(to right, #2e2852, #5C258D);
+}
+
+.container {
+	max-width: 480px;
+	margin-top: 50px;
+}
+
+h1 {
+	margin: 15px 0;
+}
+
+.fa-flask {
+	padding-right: 5px;
+}
+
+.fa-twitter {
+	padding-right: 5px;
+}
+
+blockquote {
+	margin-bottom: 25px;
+	padding: 20px;
+	font-family: 'Caveat', cursive;
+	font-size: 28px;
+	border-radius: 10px;
+}
+
+.quote {
+	height: auto;
+}
+
+footer {
+	padding-top: 10px;
+}
+
+.btn {
+	width: 40%;
+	height: 35px;
+	margin: 0 10px;
+	font-size: 18px;
+}
+
+button#generer, button#twitter {
+	outline: none;
+    border-radius: 15px;
+}
